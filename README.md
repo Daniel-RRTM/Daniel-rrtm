@@ -1,8 +1,8 @@
-<a href="https://github.com/Daniel-RRR/Patnic-IDE">
+<a href="https://github.com/Daniel-RRTM/Patnic-IDE">
   <img width=400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-rrr&repo=Patnic-IDE&theme=vision-friendly-dark&border_radius=20" />
 </a>
 
-<a href="https://github.com/Daniel-RRR/Patnic-Src">
+<a href="https://github.com/Daniel-RRTM/Patnic-Src">
   <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daniel-rrr&repo=Patnic-Src&theme=vision-friendly-dark&border_radius=20" />
 </a>
   
